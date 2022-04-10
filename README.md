@@ -4,11 +4,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Noh&fontAlign=80&fontAlignY=40&color=gradient)
 ![Noh-hyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noh&show_icons=true&theme=radical)
-# Teach Stac 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
+
 
 
 
